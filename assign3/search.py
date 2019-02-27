@@ -1,4 +1,3 @@
-# OLD SEARCH
 import math
 
 
