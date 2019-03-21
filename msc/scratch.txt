@@ -1,0 +1,10 @@
+Demo
+in the directory containing the assign0 directory
+submit -v anh-grd 665-02-assign0 assign0
+
+
+In general, the command is the following.
+submit -v anh-grd 665-0M-assignN assignN
+
+To check your submission, type the following command from a LINUX workstation.
+cksubmit anh-grd 665-0M-assignN
