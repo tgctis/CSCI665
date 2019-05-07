@@ -21,9 +21,9 @@ def fibIt(n):
     return fibItHelper(n, 0, 1)
 
 
-# for i in range(0, 100):  # Much faster!
-#     print str(i) + " : " + str(fibIt(i))
-
-# print fibIt(30)  # fast
+for i in range(0, 100):  # Much faster!
+    print str(i) + " : " + str(fibIt(i))
+#
+# print fibIt(5)  # fast
 # print fib(30)  # slow
 
